@@ -19,5 +19,11 @@ Link de la Base de Datos -> https://drive.google.com/file/d/15yvJAsB4FLLTBbZPcPK
   <img src="https://i.postimg.cc/2SCpPycN/probando.png"/>
 </p>
 
+## Autores ✒️
 
-* Hecho por Paul Guillen Acuña
+* **Paul Guillen Acuña** - *Mi Repositorio* - [PaulGuillen](https://github.com/PaulGuillen?tab=repositories)
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (MIT License) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
