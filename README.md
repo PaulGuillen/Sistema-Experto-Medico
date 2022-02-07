@@ -19,7 +19,7 @@ Link de la Base de Datos -> https://drive.google.com/file/d/15yvJAsB4FLLTBbZPcPK
   <img src="https://i.postimg.cc/2SCpPycN/probando.png"/>
 </p>
 
-## Autores ✒️
+## Autor ✒️
 
 * **Paul Guillen Acuña** - *Mi Repositorio* - [PaulGuillen](https://github.com/PaulGuillen?tab=repositories)
 
