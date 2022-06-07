@@ -8,9 +8,9 @@ Pasos para ejecutar el programa
  * Descargar el archivo "BaseDeDatos.Rar" y extraerlo en C:/ .
  * Ejecutar el Paquete - Sistema - JFrame (SistemaIntegrado01) .
 
-Link del Manual de Usuario del Programa -> https://drive.google.com/file/d/1ZddkkaWiPWXt0gnYF1E_xXxea2H27XgT/view?usp=sharing
+Link del Manual de Usuario del Programa -> https://drive.google.com/file/d/1Ig_MX6LH0g6MRqkineNzKEOWKEPKC8-a/view?usp=sharing
 
-Link de la Base de Datos -> https://drive.google.com/file/d/15yvJAsB4FLLTBbZPcPK5azadcRsr6-dH/view?usp=sharing
+Link de la Base de Datos -> https://drive.google.com/file/d/1oq6U7Mu4PQ0Dujxe1xTeE1Ln-_WkfIUG/view?usp=sharing
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
