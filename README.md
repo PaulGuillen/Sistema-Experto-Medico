@@ -24,4 +24,3 @@ Link de la Base de Datos -> https://drive.google.com/file/d/1oq6U7Mu4PQ0Dujxe1xT
 ## Autor ✒️
 
 * **Paul Guillen Acuña** - *Mi Repositorio* - [PaulGuillen](https://github.com/PaulGuillen?tab=repositories)
-*
