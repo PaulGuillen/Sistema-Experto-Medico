@@ -6,7 +6,7 @@ realizar el proceso de análisis automaticamente._
 ---
 
 Pasos para ejecutar el programa
- * Descargar el archivo "BaseDeDatos.Rar" y extraerlo en C:/ .
+ * Descargar el archivo "BaseDeDatos.Rar" y extraerlo en C:/ 
  * Ejecutar el Paquete - Sistema - JFrame (SistemaIntegrado01) .
 
 Link del Manual de Usuario del Programa -> https://drive.google.com/file/d/1Ig_MX6LH0g6MRqkineNzKEOWKEPKC8-a/view?usp=sharing
