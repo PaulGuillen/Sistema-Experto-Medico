@@ -1,8 +1,9 @@
 # Sistema-Experto-Médico
-Sistema Experto Médico, proyecto en el cual el sistema tiene salida en porcentajes de acuerdo a los datos previamente registrados, este software se encarga de 
-realizar el proceso de análisis automaticamente.
 
---------------------------------------------------------------------------------------------------------------------------------------
+_Sistema Experto Médico, proyecto en el cual el sistema tiene salida en porcentajes de acuerdo a los datos previamente registrados, este software se encarga de 
+realizar el proceso de análisis automaticamente._
+
+---
 
 Pasos para ejecutar el programa
  * Descargar el archivo "BaseDeDatos.Rar" y extraerlo en C:/ .
@@ -12,12 +13,13 @@ Link del Manual de Usuario del Programa -> https://drive.google.com/file/d/1Ig_M
 
 Link de la Base de Datos -> https://drive.google.com/file/d/1oq6U7Mu4PQ0Dujxe1xTeE1Ln-_WkfIUG/view?usp=sharing
 
---------------------------------------------------------------------------------------------------------------------------------------
-
+---
 
 <p align="center">
   <img src="https://i.postimg.cc/2SCpPycN/probando.png"/>
 </p>
+
+---
 
 ## Autor ✒️
 
